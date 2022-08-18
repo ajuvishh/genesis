@@ -9,4 +9,5 @@ On update, both methods fetch the entity and replace the entity's instance varia
 Even though I can find the difference in theory, I can not see the difference in real scenarios.
 
 #### Update
-We can even use Getmapping for updating. The update logic gets implemented in the service layer. As of now I think mappings indicate what kind of logic we are going to use. Not really sure if there's an impact.
+We can even use Getmapping for updating. The update logic gets implemented in the service layer. 
+As of now I think mappings indicate what kind of logic we are going to use. Not really sure if there's an impact.
