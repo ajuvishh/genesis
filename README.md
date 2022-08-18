@@ -7,3 +7,5 @@
 ### 3. Redirection Messages
 ### 4. Client Error Responses
 ### 5. Server Error Responses
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
